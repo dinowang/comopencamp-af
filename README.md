@@ -2,7 +2,7 @@
 
 ## 活動
 
-Community Open Camp 於 2016-8-27 舉辦, 詳情可參考[活動資訊與報名](community-open-camp.azurewebsites.net)網頁。
+Community Open Camp 於 2016-8-27 舉辦, 詳情可參考[活動資訊與報名](https://community-open-camp.azurewebsites.net/)網頁。
 
 ## 原始碼使用說明
 
