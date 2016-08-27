@@ -29,9 +29,13 @@ Fork 這個專案，在新的 Function App 中，加入這個專案為 CI 來源
 
 開發者為 Function 安裝增加 NuGet 套件的作法請參考這篇[Stackoverflow 上的問答](http://stackoverflow.com/questions/36411536/how-can-i-use-nuget-packages-in-my-azure-functions)。
 
+## 開發輔助工具
+
+- [Yeoman generator-azurefunctions](https://github.com/ahmelsayed/generator-azurefunctions)
+
 ## 參考資料
 
-- https://github.com/Azure/AzureFunctions
+- https://github.com/Azure/Azure-Functions
 - https://github.com/Azure/azure-webjobs-sdk-templates/tree/master/Templates
 - https://github.com/Azure/azure-content/tree/master/articles/azure-functions
 - https://github.com/Azure/azure-content-zhtw/tree/master/articles/azure-functions
