@@ -36,6 +36,7 @@ Fork 這個專案，在新的 Function App 中，加入這個專案為 CI 來源
 ## 參考資料
 
 - https://github.com/Azure/Azure-Functions
+- https://github.com/Azure/azure-webjobs-sdk-script/releases
 - https://github.com/Azure/azure-webjobs-sdk-templates/tree/master/Templates
 - https://github.com/Azure/azure-content/tree/master/articles/azure-functions
 - https://github.com/Azure/azure-content-zhtw/tree/master/articles/azure-functions
